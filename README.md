@@ -1,1 +1,2 @@
-# repositorio de sophia para la practica 4
+# repositorio de sophia para la practica
+Parte desarrollada Por Justine Mae Facelo Gutierrez
